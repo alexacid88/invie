@@ -1,0 +1,40 @@
+/*tipo de selector {
+  propiedad: valor;
+}*/
+
+*{
+  border: 1px solid red;
+  margin: 10px;
+}
+
+header {
+  background: blue;
+}
+
+section {
+  background: purple;
+}
+
+article h3 {
+  color: green;
+}
+
+.title-a {
+  background: yellow;
+}
+
+.title-b {
+  background: salmon;
+}
+
+#header {
+  border: 3px solid black;
+}
+
+#portada {
+  border: 3px solid orange;
+}
+
+#guitarras {
+  border: 3px solid brown;
+}
